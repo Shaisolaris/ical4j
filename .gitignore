@@ -17,3 +17,5 @@ out/
 .github/prompts
 .github/skills
 
+config.bat
+node_modules
